@@ -127,11 +127,6 @@ Portfolio-Management/
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/yourusername/Portfolio-Management.git
-   cd Portfolio-Management
-   ```
-
 2. **Setup Backend**
 
    ```bash
